@@ -7,4 +7,5 @@ https://github.com/wrs-prc-realspace/RuleBook2018/blob/master/WRS_PartnerRobotCh
 FAQ: Frequently Asked Questions  
 https://github.com/wrs-prc-realspace/RuleBook2018/wiki/FAQ:-Frequently-Asked-Questions
 
-Inquiry and Mailing List prcreal@googlegroups.com
+Inquiry and Mailing List  
+prcreal@googlegroups.com
