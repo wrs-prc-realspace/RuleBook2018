@@ -7,7 +7,7 @@ https://github.com/wrs-prc-realspace/RuleBook2018/blob/master/WRS_PartnerRobotCh
 FAQ: Frequently Asked Questions  
 https://github.com/wrs-prc-realspace/RuleBook2018/wiki/FAQ:-Frequently-Asked-Questions
 
-Web
+Web  
 http://worldrobotsummit.org/en/wrc2018/service/#partner_robot_challenge
 
 Mailing List and Inquiry  
